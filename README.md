@@ -1,2 +1,6 @@
 # treinamento-flexbox-css
- Treiamento de CSS com Flexbox
+ Treinamento de CSS com Flexbox
+
+1° - Feito uma mini galeria de pinturas.
+
+2° - Feito um menu responsivo.
